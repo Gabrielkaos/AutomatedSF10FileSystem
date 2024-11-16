@@ -1,0 +1,61 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AutomatedSF10FileSystem
+</name>
+</assembly>
+<members>
+<member name="T:AutomatedSF10FileSystem.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:AutomatedSF10FileSystem.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:AutomatedSF10FileSystem.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:AutomatedSF10FileSystem.My.Resources.Resources._360_F_292905667_yFUJNJPngYeRNlrRL4hApHWxuYyRY4kN">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomatedSF10FileSystem.My.Resources.Resources.Best_Computer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomatedSF10FileSystem.My.Resources.Resources.Department_of_Education_DepEd_Seal_300x300">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomatedSF10FileSystem.My.Resources.Resources.Picsart_23_04_13_13_13_29_732">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomatedSF10FileSystem.My.Resources.Resources.Picsart_23_04_13_13_13_29_7321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomatedSF10FileSystem.My.Resources.Resources.Picsart_23_04_13_15_54_03_353">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomatedSF10FileSystem.My.Resources.Resources.user">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
